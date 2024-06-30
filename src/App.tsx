@@ -7,7 +7,7 @@ import Loader from './components/Loader/Loader';
 import ErrorMessage from './components/ErrorMessage/ErrorMessage';
 import LoadMoreBtn from './components/LoadMoreBtn/LoadMoreBtn';
 import ImageModal from './components/ImageModal/ImageModal';
-import { Image } from './types'; // Предполагаем наличие файла с типами
+import { Image } from './types';
 
 const API_KEY = 'i79wZxp6XeDqBJoSVG43E0ZrrEunh8r0xLZUxGJKI0M';
 const API_URL = `https://api.unsplash.com/search/photos`;
